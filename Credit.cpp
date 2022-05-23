@@ -8,7 +8,7 @@
 
 int main(void) {
     long long input = 0; //Declaring input file
-    std::cout << "Enter the credit card number: " << std::endl;
+    std::cout << "5458653498854322: " << std::endl;
     std::cin >> input;
     long long temp = input; //Creating temp variable which we'll be using in loops
     long int length = 0; //Creating length variable 
